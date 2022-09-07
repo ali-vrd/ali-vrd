@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ialivrd@gmai.com**
 
-- ⚡ Fun fact **i'm singer/guita**
+- ⚡ Fun fact **i'm singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
