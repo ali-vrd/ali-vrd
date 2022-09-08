@@ -10,7 +10,7 @@
 </p>
 
 
-- 📫 How to reach me: **ialivrd@gmai.com**
+- 📫 How to reach me: **ialivrd@gmail.com**
 
 - ⚡ Fun fact: **i'm singer**
 
