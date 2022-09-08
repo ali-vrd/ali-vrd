@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/vrd_ali" target="blank"><img src="https://img.shields.io/twitter/follow/vrd_ali?logo=twitter&style=for-the-badge" alt="vrd_ali" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/ali_vrd](codepen.io/ali_vrd)
+- 👨‍💻 All of my projects are available at <a href="https://codepen.io/Ali_vrd" target="blank">[codepen.io/ali_vrd]</a>
+</p>
+
 
 - 📫 How to reach me: **ialivrd@gmai.com**
 
