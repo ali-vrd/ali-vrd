@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/vrd_ali" target="blank"><img src="https://img.shields.io/twitter/follow/vrd_ali?logo=twitter&style=for-the-badge" alt="vrd_ali" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [codepen.io/ali_vrd](codepen.io/ali_vrd)
+- 👨‍💻 All of my projects are available at [https://codepen.io/ali_vrd](codepen.io/ali_vrd)
 
-- 📫 How to reach me **ialivrd@gmai.com**
+- 📫 How to reach me: **ialivrd@gmai.com**
 
-- ⚡ Fun fact **i'm singer**
+- ⚡ Fun fact: **i'm singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
